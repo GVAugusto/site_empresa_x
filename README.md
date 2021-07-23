@@ -43,3 +43,7 @@ __melhoria 1__, _melhoria 2_
 ### Imagem Remota
 
 ![Logo do Python Remoto](https://img.icons8.com/metro/452/python.png)
+
+## Links Interessantes:
+
+[Google](https://www.google.com)
