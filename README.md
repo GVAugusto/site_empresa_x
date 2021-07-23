@@ -53,3 +53,12 @@ __melhoria 1__, _melhoria 2_
 Perfil GitHub: https://www.github.com/GVAugusto
 
 [![Logo do Python Local](img/python.png)](https://www.github.com/GVAugusto)
+
+
+### Código da função soma
+
+```javascript
+function soma(a, b) {
+    return a + b;
+}
+```
