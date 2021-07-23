@@ -62,3 +62,8 @@ function soma(a, b) {
     return a + b;
 }
 ```
+
+```python
+def soma(a, b)
+    return a + b
+```
