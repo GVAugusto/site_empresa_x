@@ -38,4 +38,8 @@ __melhoria 1__, _melhoria 2_
 ### Imagem Local
 
 ![Logo do Python Local](img/python.png)
+
+
+### Imagem Remota
+
 ![Logo do Python Remoto](https://img.icons8.com/metro/452/python.png)
