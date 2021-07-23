@@ -18,6 +18,8 @@ __melhoria 1__, _melhoria 2_
 ### Linguagens do Projeto:
 
 * HTML
+    * Teste Sub HTML
+        * Teste Sub Sub HTML
 * CSS
 * JavaScript
 * PHP
@@ -27,6 +29,7 @@ __melhoria 1__, _melhoria 2_
 
 1. Área de Membros
     1. Login diferente para grupos de clientes
+        1. Teste SUB SUB lista
     2. Desconto especial para grupos de cliente
     3. CSS diferente para grupos de cliente
 2. Integração com outros pagamentos
