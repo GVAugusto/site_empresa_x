@@ -71,7 +71,7 @@ def soma(a, b)
 
 ### Task List
 
-- [ x ] Área de membros
+- [x] Área de membros
 - [ ] Integração com outros pagamentos
 - [ ] Sistema de bônus
-- [ x ] CSS do rodapé
+- [x] CSS do rodapé
