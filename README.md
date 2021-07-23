@@ -48,6 +48,6 @@ __melhoria 1__, _melhoria 2_
 
 [Google](https://www.google.com)
 
-[www.pudim.com.br](www.pudim.com.br)
+[www.pudim.com.br](http://www.pudim.com.br)
 
 Perfil GitHub: https://www.github.com/GVAugusto
